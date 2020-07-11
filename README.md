@@ -2,7 +2,7 @@ This is my solution
 ["Build Your Own Docker" Challenge](https://codecrafters.io/challenges/docker).
 
 
-### Notes on my solution
+## Notes on my solution
 
 My Solution fully completes the challenge 
 
@@ -14,7 +14,7 @@ My Solution fully completes the challenge
 6. Fetch an image from the Docker Registry :white_check_mark:
 
 
-
+# Challenge
 In this challenge, you'll build a program that can pull an image from [Docker
 Hub](https://hub.docker.com/) and execute commands in it. Along the way, we'll
 learn about [chroot](https://en.wikipedia.org/wiki/Chroot), [kernel
